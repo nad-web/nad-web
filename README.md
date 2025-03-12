@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
+
+
+
