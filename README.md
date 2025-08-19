@@ -47,3 +47,8 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nad-web)
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nad-web&theme=tokyo-night" alt="Contribution Graph"/>
+</div>
+
+
