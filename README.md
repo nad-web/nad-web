@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nad-web)
 
